@@ -1,5 +1,5 @@
-net\javaguides\springboot\model\Employee.class
-net\javaguides\springboot\repository\EmployeeRepository.class
-net\javaguides\springboot\SpringbootBackendApplication.class
-net\javaguides\springboot\controller\EmployeeController.class
-net\javaguides\springboot\exception\ResourceNotFoundException.class
+net\crud\repository\EmployeeRepository.class
+net\crud\controller\EmployeeController.class
+net\crud\SpringbootBackendApplication.class
+net\crud\exception\ResourceNotFoundException.class
+net\crud\model\Employee.class
