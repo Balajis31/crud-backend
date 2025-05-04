@@ -1,6 +1,6 @@
 spring:
   profiles:
-    active: dev
+    active: default
   datasource:
     url: jdbc:postgresql://ep-square-pine-a4nlg7pg-pooler.us-east-1.aws.neon.tech/neondb?sslmode=require
     username: neondb_owner
