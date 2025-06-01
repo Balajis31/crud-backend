@@ -20,7 +20,6 @@ import net.crud.exception.ResourceNotFoundException;
 import net.crud.model.Employee;
 import net.crud.repository.EmployeeRepository;
 
-@CrossOrigin(origins = "https://spectacular-fox-c7a164.netlify.app")
 @RestController
 @RequestMapping("/api/v1/")
 public class EmployeeController {
